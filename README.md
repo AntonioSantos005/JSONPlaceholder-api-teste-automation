@@ -36,8 +36,8 @@ src
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/agibanktest.git
-cd agibanktest
+git clone https://github.com/AntonioSantos005/JSONPlaceholder-api-teste-automation.git
+cd JSONPlaceholder-api-teste-automation
 ```
 
 2. Execute os testes com o Gradle:
