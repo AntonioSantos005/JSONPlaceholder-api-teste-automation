@@ -67,4 +67,4 @@ Os testes estão descritos em arquivos `.feature` localizados na pasta `src/test
 
 ## 👤 Autor
 
-Antônio de Sousa – [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+Antônio de Sousa – [LinkedIn](https://www.linkedin.com/in/antoniosousas/)
