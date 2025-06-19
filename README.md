@@ -61,6 +61,7 @@ Os testes estão descritos em arquivos `.feature` localizados na pasta `src/test
 
 ## 📝 Observações
 
+- Projeto desenvolvido em 2021
 - Este projeto foi desenvolvido para fins de aprendizado e demonstração de automação de testes de API.
 - A API utilizada (`https://jsonplaceholder.typicode.com`) é pública e gratuita para testes, portanto os dados não são persistidos.
 
