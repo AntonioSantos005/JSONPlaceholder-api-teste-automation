@@ -1,7 +1,7 @@
 
 # JSONPlaceholder API Test Automation
 
-Este projeto é uma automação de testes para APIs RESTful utilizando Java com Cucumber, JUnit e Allure Reports. Ele testa os endpoints do serviço JSONPlaceholder, simulando operações de criação, consulta, alteração e exclusão de registros.
+Este projeto é uma automação de testes para APIs RESTful utilizando Java com Cucumber, Rest Assured, JUnit e Allure Reports. Ele testa os endpoints do serviço JSONPlaceholder, simulando operações de criação, consulta, alteração e exclusão de registros.
 
 ## 🔧 Tecnologias utilizadas
 
